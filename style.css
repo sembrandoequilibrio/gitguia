@@ -1,4 +1,11 @@
-.h1 {
+.header {
+    background-color: aqua;
+}
+
+.body {
     text-align: center;
-    color: brown;
+}
+
+.main {
+    background-color: azure;
 }
